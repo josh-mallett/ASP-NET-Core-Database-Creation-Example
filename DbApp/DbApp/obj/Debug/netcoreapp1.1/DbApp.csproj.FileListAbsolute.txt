@@ -1,0 +1,9 @@
+c:\users\josh-\documents\visual studio 2017\Projects\DbApp\DbApp\bin\Debug\netcoreapp1.1\DbApp.deps.json
+c:\users\josh-\documents\visual studio 2017\Projects\DbApp\DbApp\bin\Debug\netcoreapp1.1\DbApp.runtimeconfig.json
+c:\users\josh-\documents\visual studio 2017\Projects\DbApp\DbApp\bin\Debug\netcoreapp1.1\DbApp.runtimeconfig.dev.json
+c:\users\josh-\documents\visual studio 2017\Projects\DbApp\DbApp\bin\Debug\netcoreapp1.1\DbApp.dll
+c:\users\josh-\documents\visual studio 2017\Projects\DbApp\DbApp\bin\Debug\netcoreapp1.1\DbApp.pdb
+c:\users\josh-\documents\visual studio 2017\Projects\DbApp\DbApp\obj\Debug\netcoreapp1.1\DbApp.csprojResolveAssemblyReference.cache
+c:\users\josh-\documents\visual studio 2017\Projects\DbApp\DbApp\obj\Debug\netcoreapp1.1\DbApp.AssemblyInfo.cs
+c:\users\josh-\documents\visual studio 2017\Projects\DbApp\DbApp\obj\Debug\netcoreapp1.1\DbApp.dll
+c:\users\josh-\documents\visual studio 2017\Projects\DbApp\DbApp\obj\Debug\netcoreapp1.1\DbApp.pdb
